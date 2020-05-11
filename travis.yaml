@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon May 11 18:36:52 2020
+
+@author: Sahar
+"""
+
+
+language: python
+  Python
+  -"3.7"
+
+#command to run test 
+script:
+ -pytest
